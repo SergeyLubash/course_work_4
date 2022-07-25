@@ -1,0 +1,10 @@
+Flask==2.0.3
+flask-restx~=0.5.1
+Flask-Cors~=3.0.10
+Flask-SQLAlchemy~=2.5.1
+marshmallow==3.14.1
+PyJWT~=2.4.0
+npm
+
+SQLAlchemy~=1.4.39
+Werkzeug~=2.0.3
